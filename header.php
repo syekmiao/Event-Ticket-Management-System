@@ -8,7 +8,7 @@
             <br>
             <ul>
                 <li><a href="HomePage.html">HOME</a></li>
-                <li><a href="#">EVENTS</a></li>
+                <li><a href="EventSummary.php">EVENTS</a></li>
                 <li><a href="#">BOOKING TICKET</a></li>
                 <li><a href="Contact.html">CONTACT US</a></li>
                 <li><font color="white"><b>|</b></font></li>
