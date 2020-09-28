@@ -44,46 +44,6 @@
                     <input type="submit" value="Book this Event" class="btn btn-primary" >
                 </div>
             </div>
-
-            <h3 class="my-4">Other Events</h3>
-            <div class="row">
-                <div class="col-md-3 col-sm-6 mb-4">
-                    <div class="card h-50">
-                        <a href="#"><img class="img-fluid" src="http://placehold.it/500x250" alt=""></a>
-                        <div class="card-body">
-                            <h4 class="card-title"><a href="#">Event One</a></h4>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-md-3 col-sm-6 mb-4">
-                    <div class="card h-50">
-                        <a href="#"><img class="img-fluid" src="http://placehold.it/500x250" alt=""></a>
-                        <div class="card-body">
-                            <h4 class="card-title"><a href="#">Event Two</a></h4>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-md-3 col-sm-6 mb-4">
-                    <div class="card h-50">
-                        <a href="#"><img class="img-fluid" src="http://placehold.it/500x250" alt=""></a>
-                        <div class="card-body">
-                            <h4 class="card-title"><a href="#">Event Three</a></h4>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-md-3 col-sm-6 mb-4">
-                    <div class="card h-50">
-                        <a href="#"><img class="img-fluid" src="http://placehold.it/500x250" alt=""></a>
-                        <div class="card-body">
-                            <h4 class="card-title"><a href="#">Event Four</a></h4>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            
         </div>
         
         
