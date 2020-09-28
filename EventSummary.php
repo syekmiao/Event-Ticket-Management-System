@@ -23,24 +23,24 @@
 
                 <div class="col-md-8">
                     <h3 class="my-3">Event Description</h3>
-                    <p>Event descriptions.... What the event is about. What will happen in this event.
-                    What will participations gains while attending this event... etc. etc. </p>
+                    <p>Event descriptions....  Event Date and Time
+                        No. of tickets left<br>
+                        Price for a person.<br>
+                    </p>
                 
-                    <h3 class="my-3">Event Date and Time</h3>
-                    <ul>
-                        <li>Session 1: 22/09/2020 - 8.00a.m. ~ 12.00 p.m.</li>
-                        <li>Session 2: 22/09/2020 - 6.00p.m. ~ 10.00 p.m.</li>
-                        <li>Session 3: 23/09/2020 - 8.00a.m. ~ 12.00 p.m.</li>
-                        <li>Session 1: 23/09/2020 - 6.00p.m. ~ 10.00 p.m.</li>
-                    </ul>
-                    
+                    <h3 class="my-3">Make a Booking</h3>
                     <select class="my-3 mmdb-select md-form">
-                        <option value="" disabled selected>Choose your session</option>
-                        <option value="1">Session 1</option>
-                        <option value="2">Session 2</option>
-                        <option value="3">Session 3</option>
-                        <option value="4">Session 4</option>
+                        <option value="" disabled selected>How many person?</option>
+                        <option value="1">1</option>
+                        <option value="2">2</option>
+                        <option value="3">3</option>
+                        <option value="4">4</option>
+                        <option value="4">5</option>
+                        <option value="4">6</option>
+                        <option value="4">7</option>
+                        <option value="4">8</option>
                     </select>
+                    <p> Total Price: RM</p>
                     <input type="submit" value="Book this Event" class="btn btn-primary" >
                 </div>
             </div>
