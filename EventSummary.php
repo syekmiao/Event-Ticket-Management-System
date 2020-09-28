@@ -40,7 +40,7 @@
                         <option value="4">7</option>
                         <option value="4">8</option>
                     </select>
-                    <p> Total Price: RM</p>
+                    <p>Total Price: RM</p>
                     <input type="submit" value="Book this Event" class="btn btn-primary" >
                 </div>
             </div>
